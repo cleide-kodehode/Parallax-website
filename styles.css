@@ -10,7 +10,7 @@ body, html {
 }
 
 .pimg1, .pimg2, .pimg3, .pimg4 {
-    position:relative;
+    position: relative;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;    
@@ -49,6 +49,7 @@ body, html {
 
 .section-light h2{
     color: #D2828F;
+    
 }
 
 .section-dark {
@@ -71,6 +72,10 @@ body, html {
     background-color: #111;
     color: #fff;
     padding: 0px;
+}
+
+.border p span {
+    font-size: 55px;
 }
 
 
